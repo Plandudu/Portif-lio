@@ -10,6 +10,8 @@
 
 ## FORMAÇÃO
 *  Ensino fundamental |2019 |
+
+
 *Ensino médio - Cursando  |2021 |
 
 

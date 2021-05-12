@@ -14,4 +14,4 @@
 
 
 ## CURSO
-*Tecnologia da informação - Cursando
+*  Tecnologia da informação - Cursando 

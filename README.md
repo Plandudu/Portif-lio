@@ -1,7 +1,7 @@
 #  CURRÍCULO
 ##  Nome: Eduardo Pfleger Vitório
-### turma: 2b
-### idade: 15 
+### turma: 3b
+### idade: 17
 
 
 ## OBJETIVO
